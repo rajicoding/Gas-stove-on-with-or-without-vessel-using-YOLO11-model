@@ -22,7 +22,6 @@ OUTCOME
 Our model can identify gas stove on_with vessel with confidence score of 88
 Can identify gas stove on_without vessel with confidence score of 63
 Improvements can be done to increase the predictions using large amount of datasets and better model for prediction
-<img width="2154" height="222" alt="image" src="https://github.com/user-attachments/assets/58df091f-464c-4d39-93a1-ccb7718d2a73" />
 
 
 
