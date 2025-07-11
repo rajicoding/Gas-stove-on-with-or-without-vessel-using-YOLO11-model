@@ -1,0 +1,6 @@
+train: D:\AI DS Course\Hope AI_Hackathon Project\Yolo_V11_Gasstove_Detection\train
+val: D:\AI DS Course\Hope AI_Hackathon Project\Yolo_V11_Gasstove_Detection\val
+
+nc: 2
+
+names: [Gas stove on_with vessel,Gas stove on_without vessel]
